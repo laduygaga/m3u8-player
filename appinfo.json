@@ -1,0 +1,16 @@
+{
+  "id": "com.laduygaga.iptvplayer",
+  "version": "1.0.0",
+  "vendor": "laduygaga",
+  "type": "web",
+  "main": "index.html",
+  "title": "IPTV Stream Player",
+  "icon": "icon80x80.png",
+  "largeIcon": "icon130x130.png",
+  "bgImage": "splash1920x1080.png",
+  "splashBackground": "#111111",
+  "resolution": "1920x1080",
+  "requiredPermissions": [
+    "network.state"
+  ]
+}
