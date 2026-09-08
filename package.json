@@ -9,9 +9,9 @@
     "pack": "ares-package build -o ./dist_pkg"
   },
   "dependencies": {
-    "@enact/core": "^4.5.0",
-    "@enact/sandstone": "^4.5.0",
-    "@enact/spotlight": "^4.5.0",
+    "@enact/core": "^5.6.0",
+    "@enact/sandstone": "^2.9.13",
+    "@enact/spotlight": "^5.6.0",
     "dexie": "^3.2.4",
     "hls.js": "^1.5.8",
     "react": "^18.2.0",
